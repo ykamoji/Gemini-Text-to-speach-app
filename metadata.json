@@ -1,0 +1,5 @@
+{
+  "name": "AI Text-to-Speech Narrator",
+  "description": "An advanced text-to-speech application that leverages the Gemini API to convert long text documents into high-quality audio narration. Features include voice selection, customizable speech styles, and a progress indicator for audio generation.",
+  "requestFramePermissions": []
+}
